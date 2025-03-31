@@ -1,4 +1,4 @@
-Technologies Used: This project leverages Python along with popular libraries such as pandas, scikit-learn (including StandardScaler, RandomForestClassifier, ExtraTreesClassifier, accuracy_score, and classification_report), and pickle for data manipulation, model building, evaluation, and persistence.
+Technologies Used: This project leverages Python along with popular libraries such as pandas, scikit-learn (including StandardScaler, RandomForestClassifier, ExtraTreesClassifier, accuracy_score, and classification_report).
 
 Classification Model: A Random Forest Classifier forms the core of this project, trained on preprocessed numerical features. This ensemble learning method, known for its robustness and accuracy, utilizes 100 estimators and a random state of 42 for reproducibility. For predictions on a separate test dataset, an ExtraTreesClassifier with 350 estimators is employed.
 
